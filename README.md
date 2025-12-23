@@ -13,7 +13,7 @@ This repo contains my implementation of the **3 Streamlit apps** required for th
 
 ## ✅ Quickstart
 
-### 1) Install dependencies
+ 1) Install dependencies
 ```bash
 pip install -r requirements.txt
 2) Create .env
