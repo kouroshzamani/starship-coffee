@@ -117,7 +117,8 @@ Right side: final answer + tool call table (tool, args, result)
 Emails are always masked (e.g. l***@domain.com)
 
 Screenshot (Task 2 output)
-Replace the placeholder below with your screenshot.
+![task2](https://raw.githubusercontent.com/kouroshzamani/starship-coffee/main/task2.jpg)
+
 ---
 
 ## Task 3 — Receipt OCR (Vision → Structured JSON)
@@ -144,7 +145,10 @@ Edge case handled
 If a receipt contains both a crossed-out total and a current total, the prompt instructs the model to return the current total.
 
 Screenshot (Task 3 output)
-Replace the placeholder below with your screenshot.
+![task3](https://raw.githubusercontent.com/kouroshzamani/starship-coffee/main/task3.jpg)
+![task3-1](https://raw.githubusercontent.com/kouroshzamani/starship-coffee/main/task3-1.jpg)
+
+
 ---
 
 ##  Repo Notes
