@@ -74,8 +74,10 @@ Key design note (important)
 Because TF-IDF uses a fitted vocabulary, when chunks are loaded from disk (JSON/SQLite) the vectorizer must be re-initialized from the loaded chunk texts.
 This is handled by ensure_vectorizer() after loading.
 
-Screenshot (Task 1 output)
-[Replace the placeholder below with your screenshot.](https://github.com/kouroshzamani/starship-coffee/blob/main/task1.jpg)
+**Screenshot (Task 1 output)** 
+![task1]((https://github.com/kouroshzamani/starship-coffee/blob/main/task1.jpg)?raw=true)
+
+
 
 ---
 ## Task 2 — Function Calling over Customer/Order CSVs
