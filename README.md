@@ -39,8 +39,8 @@ streamlit run part2_funcs/app_funcs.py
 
 # Task 3
 streamlit run part3_receipts/app_receipts.py
-------
-#### Task 1 — Simple RAG (Citations + Injection Handling)
+---
+## Task 1 — Simple RAG (Citations + Injection Handling)
 What this app does
 Reads markdown docs from: part1_rag/docs/
 
@@ -80,8 +80,8 @@ This is handled by ensure_vectorizer() after loading.
 Screenshot (Task 1 output)
 Replace the placeholder below with your screenshot.
 
-------
-#### Task 2 — Function Calling over Customer/Order CSVs
+---
+## Task 2 — Function Calling over Customer/Order CSVs
 What this app does
 Loads two CSVs from: part2_funcs/data/
 
@@ -118,9 +118,9 @@ Emails are always masked (e.g. l***@domain.com)
 
 Screenshot (Task 2 output)
 Replace the placeholder below with your screenshot.
--------
+---
 
-##### Task 3 — Receipt OCR (Vision → Structured JSON)
+## Task 3 — Receipt OCR (Vision → Structured JSON)
 What this app does
 Accepts a single receipt image upload (PNG/JPG)
 
@@ -145,9 +145,9 @@ If a receipt contains both a crossed-out total and a current total, the prompt i
 
 Screenshot (Task 3 output)
 Replace the placeholder below with your screenshot.
-----------
+---
 
-###  Repo Notes
+##  Repo Notes
 What is NOT committed
 .env (contains API key)
 
@@ -156,9 +156,9 @@ What is NOT committed
 local stores / cached indexes (.store/, sqlite/db files)
 
 local logs (*.jsonl)
-------
+---
 
-#### How I would switch Task 1 back to OpenAI embeddings (if quota is available)
+## How I would switch Task 1 back to OpenAI embeddings (if quota is available)
 
 If embeddings quota/billing is enabled:
 
