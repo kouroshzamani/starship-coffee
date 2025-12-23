@@ -40,3 +40,17 @@ Thumbs.db
 
 # Streamlit
 .streamlit/
+
+# venv (you have .venv folder)
+.venv/
+
+# local stores / indexes (Task 1)
+.store/
+*.sqlite
+*.db
+
+# outputs (Task 3)
+*.jsonl
+
+# Qdrant local (if used anywhere later)
+qdrant_local/
