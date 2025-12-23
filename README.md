@@ -12,7 +12,7 @@ This repo contains my implementation of the **3 Streamlit apps** required for th
 ---
 
 ## ✅ Quickstart
-
+```bash
  1) Install dependencies
 
 pip install -r requirements.txt
@@ -39,6 +39,7 @@ streamlit run part2_funcs/app_funcs.py
 
  Task 3
 streamlit run part3_receipts/app_receipts.py
+```
 ---
 ## Task 1 — Simple RAG (Citations + Injection Handling)
 What this app does
