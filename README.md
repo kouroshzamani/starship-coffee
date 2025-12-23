@@ -75,7 +75,8 @@ Because TF-IDF uses a fitted vocabulary, when chunks are loaded from disk (JSON/
 This is handled by ensure_vectorizer() after loading.
 
 **Screenshot (Task 1 output)** 
-![task1]((https://github.com/kouroshzamani/starship-coffee/blob/main/task1.jpg)?raw=true)
+![task1](https://raw.githubusercontent.com/kouroshzamani/starship-coffee/main/task1.jpg)
+
 
 
 
