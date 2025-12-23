@@ -75,7 +75,7 @@ Because TF-IDF uses a fitted vocabulary, when chunks are loaded from disk (JSON/
 This is handled by ensure_vectorizer() after loading.
 
 Screenshot (Task 1 output)
-Replace the placeholder below with your screenshot.
+[Replace the placeholder below with your screenshot.](https://github.com/kouroshzamani/starship-coffee/blob/main/task1.jpg)
 
 ---
 ## Task 2 — Function Calling over Customer/Order CSVs
