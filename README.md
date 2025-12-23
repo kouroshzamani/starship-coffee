@@ -25,6 +25,7 @@ Fill in:
 
 - OPENAI_API_KEY=your_key_here
 - OPENAI_MODEL=gpt-4o-mini
+
 3) Run apps
 
 # Task 1
