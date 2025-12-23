@@ -19,25 +19,21 @@ pip install -r requirements.txt
 2) Create .env
 Copy the template:
 
-bash
-Copy code
-cp env.example .env
+- cp env.example .env
+
 Fill in:
 
-env
-Copy code
-OPENAI_API_KEY=your_key_here
-OPENAI_MODEL=gpt-4o-mini
+- OPENAI_API_KEY=your_key_here
+- OPENAI_MODEL=gpt-4o-mini
 3) Run apps
-bash
-Copy code
- Task 1
+
+# Task 1
 streamlit run part1_rag/app_rag.py
 
- Task 2
+# Task 2
 streamlit run part2_funcs/app_funcs.py
 
- Task 3
+# Task 3
 streamlit run part3_receipts/app_receipts.py
 ```
 ---
